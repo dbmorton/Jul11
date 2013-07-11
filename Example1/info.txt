@@ -1,0 +1,3 @@
+Led Zepplin,led.png,Whole Lotta Love,led.mp3,led.txt
+Rolling Stones,stones.png,Satisfaction,stones.mp3,stones.txt
+The Doors,doors.png,Breal On Through,doors.mp3,doors.txt
