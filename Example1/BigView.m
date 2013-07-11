@@ -140,7 +140,7 @@
 		[UIView transitionFromView: [_bandViews objectAtIndex: _index]
 							toView: [_bandViews objectAtIndex: newIndex]
 						  duration: 1.25
-						   options: UIViewAnimationOptionTransitionFlipFromLeft
+						   options: UIViewAnimationOptionTransitionFlipFromRight
 						completion: NULL
 		 ];
 		_index=newIndex;
